@@ -1,2 +1,7 @@
 this is in junior
+<<<<<<< HEAD
 line modified
+=======
+modified in branch
+>>>>>>> new
+
