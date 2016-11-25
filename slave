@@ -1,4 +1,8 @@
 hi
 this is 2nd slave file
+<<<<<<< HEAD
 
 modification doing here
+=======
+slave modification
+>>>>>>> slave
